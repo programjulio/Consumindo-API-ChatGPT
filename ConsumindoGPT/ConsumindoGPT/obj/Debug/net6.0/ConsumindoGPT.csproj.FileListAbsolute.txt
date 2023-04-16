@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\bin\Debug\net6.0\ConsumindoGPT.exe
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\bin\Debug\net6.0\ConsumindoGPT.deps.json
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\bin\Debug\net6.0\ConsumindoGPT.runtimeconfig.json
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\bin\Debug\net6.0\ConsumindoGPT.dll
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\bin\Debug\net6.0\ConsumindoGPT.pdb
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.AssemblyInfo.cs
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.dll
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\refint\ConsumindoGPT.dll
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.pdb
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ConsumindoGPT.genruntimeconfig.cache
+C:\Users\julio\Desktop\numero narcisista\ChatGPT\ConsumindoGPT\ConsumindoGPT\obj\Debug\net6.0\ref\ConsumindoGPT.dll
